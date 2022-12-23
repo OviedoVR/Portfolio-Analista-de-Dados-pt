@@ -4,6 +4,8 @@
 
 > **Deploy**: aplicativo web elaborado via Streamlit, artigo no medium e [vídeo demonstrativo](https://youtu.be/22BFRmBVGeY) no Youtube.
 
+App: [Streamlit Share](https://datafii.streamlit.app/)
+
 O projeto resultou em uma solução *data-driven* para análise, tomada de decisão e mapeamento de oportunidades acerca de FIIs. O *web-app** apresenta duas funcionalidades principais:
 
 * Ranking interativo de FIIs; 
@@ -12,7 +14,6 @@ O projeto resultou em uma solução *data-driven* para análise, tomada de decis
 
 > **Ferramentas:** Python (Google Colab), Estatística, VS Code (Python scripting) e Streamlit.
 
-<img width="450" src="https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/blob/main/figuras/dataFII-pipeline.png">
 
 ---
 ## Arquivos:
