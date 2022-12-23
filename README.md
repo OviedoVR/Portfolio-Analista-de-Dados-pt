@@ -12,7 +12,7 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** Python (Google Colab) e Google Data Studio.
 
-<img width="650" src="imagens/GLS-glassdoor.png">
+<img width="700" src="imagens/GLS-glassdoor.png">
 
 
 ## Análise Exploratória (EDA) com SQL sobre dados de Crédito
@@ -36,7 +36,7 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** Azure Databricks, SQL, Vizualizações built-in do Databricks, Storyteling, Estatístca.
 
-<img width="650" src="imagens/sql-databricks.png">
+<img width="500" src="imagens/sql-databricks.png">
 
 
 ## **DataFII:** uma solução data-driven para Fundos de Investimento Imobiliário (FIIs)
@@ -71,7 +71,7 @@ O dashboard permite:
 * Acessar cenários anuais;
 * Acessar cenários baseados no tipo de serviço.
 
-<img width="450" src="imagens/PowerBI.png">
+<img width="650" src="imagens/PowerBI.png">
 
 ## [**BI e Visualização de Dados:** Acompanhamento de negócio *freelancer*](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/tree/main/3.%20BI%20e%20Visualiza%C3%A7%C3%A3o:%20Freelancer%20Dashboard)
 
