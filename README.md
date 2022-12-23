@@ -2,8 +2,7 @@
 
 Repositório destinado ao portfolio de projetos de Análise de Dados (versão em português)
 
-
-## [**WebScraping, ETL e BI:** Salários para Analista de Dados nas capitais do *Brasil*](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/tree/main/WebScrapping%2C%20ETL%20e%20BI:%20Sal%C3%A1rios%20para%20Analista%20de%20Dados%20nas%20capitais%20do%20Brasil)
+## **WebScraping, ETL e BI:** Salários para Analista de Dados nas capitais do *Brasil*
 
 > **Dados:** coletados das páginas do Glassdoor para as 27 capitais brasileiras.
 
@@ -13,11 +12,10 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** Python (Google Colab) e Google Data Studio.
 
-<img width="500" src="https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/blob/main/WebScrapping%2C%20ETL%20e%20BI:%20Sal%C3%A1rios%20para%20Analista%20de%20Dados%20nas%20capitais%20do%20Brasil/Cover-Glassdoor-Analytics.png">
+<img width="650" src="GLS-glassdoor.png">
 
 
-
-## [Análise Exploratória (EDA) com SQL sobre dados de Crédito](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/tree/main/1.%20An%C3%A1lise%20Explorat%C3%B3ria%20(EDA)%20com%20SQL%20sobre%20dados%20de%20Cr%C3%A9dito)
+## Análise Exploratória (EDA) com SQL sobre dados de Crédito
 
 > **Dados:** base de clientes(10,000+ linhas) - disponível em [Github](https://github.com/OviedoVR/DA_Projects_Portifolio/blob/main/SQL_EDA_Credito/credito.csv).
 
@@ -25,24 +23,23 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** AWS S3, AWS Athena, Python (Google Colab), VS Code (Python scripting) e Streamlit.
 
-<img width="400" src="https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/blob/main/figuras/pipeline-sql-credito.png">
+<img width="650" src="sql-credito.png">
 
 
-## [Análise em SQL com Azure Databricks](https://github.com/OviedoVR/Portfolio-Analista-de-Dados)
+## Análise em SQL com Azure Databricks
 
 > **Dados:** TED Talks (2006-2022) - disponível em [Kaggle](https://www.kaggle.com/datasets/miguelcorraljr/ted-talks-2022?select=20221013_ted_talks.csv).
 
-> **Deploy:**  destinado a responder a algumas perguntas de negócios sobre os eventos do TED Talks que ocorreram de 2006 a 2022. Para responder a essas perguntas, foi usado o *Structured Query Language* (**SQL**) e visualizações *built-in* do Azure Databricks. [Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1499004351802398/814331625001671/6746168454129455/latest.html)
+> **Deploy:**  destinado a responder a algumas perguntas de negócios sobre os eventos do TED Talks que ocorreram de 2006 a 2022. Para responder a essas perguntas, foi usado o *Structured Query Language* (**SQL**) e visualizações *built-in* do Azure Databricks. 
 
- [SQL-EDA-Crédito](https://oviedovr-ongoing-sql-eda-credito-lw3vrj.streamlitapp.com/).
+[Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1499004351802398/814331625001671/6746168454129455/latest.html)
 
 > **Ferramentas:** Azure Databricks, SQL, Vizualizações built-in do Databricks, Storyteling, Estatístca.
 
-<img width="400" src="imagens/sql_databricks.png">
+<img width="650" src="sql-databricks.png">
 
 
-
-## [**DataFII:** uma solução data-driven para Fundos de Investimento Imobiliário (FIIs)](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/tree/main/2.%20DataFII)
+## **DataFII:** uma solução data-driven para Fundos de Investimento Imobiliário (FIIs)
 
 > **Dados:** web scrapping do site https://www.fundsexplorer.com.br/ranking.
 
@@ -56,7 +53,7 @@ O projeto resultou em uma solução *data-driven* para análise, tomada de decis
 
 > **Ferramentas:** Python (Google Colab), Estatística, VS Code (Python scripting) e Streamlit.
 
-<img width="450" src="https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/blob/main/figuras/dataFII-pipeline.png">
+<img width="650" src="dataFII-streamlit.png">
 
 
 ## Freelancing Business Report - POWER BI
@@ -86,7 +83,7 @@ O dashboard permite:
 
 > **Ferramentas:** Python (Google Colab), Google Sheets, Google Data Studio.
 
-<img width="450" src="https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/blob/main/figuras/Freelas-dash.png">
+<img width="650" src="FreelasDash-GLS.png">
 
 
 ## [**TUTORIAL AWS:** acessar externalmente um *bucket *do *AWS S3*](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/tree/main/4.%20Tutorial%20AWS%20-%20Acesso%20a%20Bucket%20do%20S3)
@@ -97,5 +94,4 @@ O dashboard permite:
 
 > **Ferramentas:** Python (Google Colab), boto3, AWS S3, AWS IAM.
 
-<img width="450" src="https://github.com/OviedoVR/DA_Estudo/blob/main/images/S3-to-Python.png">
-
+<img width="650" src="S3-boto3.png">
