@@ -12,7 +12,7 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** Python (Google Colab) e Google Data Studio.
 
-<img width="650" src="GLS-glassdoor.png">
+<img width="650" src="imagens/GLS-glassdoor.png">
 
 
 ## Análise Exploratória (EDA) com SQL sobre dados de Crédito
@@ -23,7 +23,7 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** AWS S3, AWS Athena, Python (Google Colab), VS Code (Python scripting) e Streamlit.
 
-<img width="650" src="sql-credito.png">
+<img width="650" src="imagens/sql-credito.png">
 
 
 ## Análise em SQL com Azure Databricks
@@ -36,7 +36,7 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** Azure Databricks, SQL, Vizualizações built-in do Databricks, Storyteling, Estatístca.
 
-<img width="650" src="sql-databricks.png">
+<img width="650" src="imagens/sql-databricks.png">
 
 
 ## **DataFII:** uma solução data-driven para Fundos de Investimento Imobiliário (FIIs)
@@ -53,7 +53,7 @@ O projeto resultou em uma solução *data-driven* para análise, tomada de decis
 
 > **Ferramentas:** Python (Google Colab), Estatística, VS Code (Python scripting) e Streamlit.
 
-<img width="650" src="dataFII-streamlit.png">
+<img width="650" src="imagens/dataFII-streamlit.png">
 
 
 ## Freelancing Business Report - POWER BI
@@ -71,7 +71,7 @@ O dashboard permite:
 * Acessar cenários anuais;
 * Acessar cenários baseados no tipo de serviço.
 
-<img width="450" src="PowerBI.png">
+<img width="450" src="imagens/PowerBI.png">
 
 ## [**BI e Visualização de Dados:** Acompanhamento de negócio *freelancer*](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/tree/main/3.%20BI%20e%20Visualiza%C3%A7%C3%A3o:%20Freelancer%20Dashboard)
 
@@ -83,7 +83,7 @@ O dashboard permite:
 
 > **Ferramentas:** Python (Google Colab), Google Sheets, Google Data Studio.
 
-<img width="650" src="FreelasDash-GLS.png">
+<img width="650" src="imagens/FreelasDash-GLS.png">
 
 
 ## [**TUTORIAL AWS:** acessar externalmente um *bucket *do *AWS S3*](https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/tree/main/4.%20Tutorial%20AWS%20-%20Acesso%20a%20Bucket%20do%20S3)
@@ -94,4 +94,4 @@ O dashboard permite:
 
 > **Ferramentas:** Python (Google Colab), boto3, AWS S3, AWS IAM.
 
-<img width="650" src="S3-boto3.png">
+<img width="650" src="imagens/S3-boto3.png">
