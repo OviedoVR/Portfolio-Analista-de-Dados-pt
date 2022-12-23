@@ -6,8 +6,6 @@
 
 > **Ferramentas:** AWS S3, AWS Athena, Python (Google Colab), VS Code (Python scripting) e Streamlit.
 
-<img width="450" src="https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/blob/main/figuras/pipeline-sql-credito.png">
-
 ---
 ## Arquivos:
 
