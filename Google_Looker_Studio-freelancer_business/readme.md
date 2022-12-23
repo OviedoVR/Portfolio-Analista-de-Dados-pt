@@ -6,6 +6,4 @@
 
 > **Deploy:** Dashboard do [Google Data Studio](https://datastudio.google.com/reporting/08c7487a-a034-41ad-a436-30551e6d8771).
 
-> **Ferramentas:** Python (Google Colab), Google Sheets, Google Data Studio.
-
-<img width="450" src="https://github.com/OviedoVR/Portfolio-Analista-de-Dados-pt/blob/main/figuras/Freelas-dash.png">
+> **Ferramentas:** Python (Google Colab), Google Sheets, Google Data Studio
