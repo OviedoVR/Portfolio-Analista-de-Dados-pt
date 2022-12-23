@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+    height: 100%;
+}
+  
+tr {
+    font-weight: bold;
+    border-bottom: 1.5px solid black;
+    font-family: monospace;
+    font-size: 15px;
+    width: 100%;
+    min-widht: 100%;
+    max-widht: 100%;
+}
+
+th {
+  font-weight: bold;
+  background-color:#F5F5F5;
+  color: white;
+}
+
+footer {
+    visibility: hidden;
+}
