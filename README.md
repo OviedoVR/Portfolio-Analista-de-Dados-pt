@@ -12,7 +12,7 @@ Repositório destinado ao portfolio de projetos de Análise de Dados (versão em
 
 > **Ferramentas:** Python (Google Colab) e Google Data Studio.
 
-<img width="700" src="imagens/GLS-glassdoor.png">
+<img width="800" src="imagens/GLS-glassdoor.png">
 
 
 ## Análise Exploratória (EDA) com SQL sobre dados de Crédito
